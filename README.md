@@ -1,5 +1,5 @@
 # Hercules Battlegrounds
-This project is a full conversion and enhancement of eAmod's Battlegrounds system into an easy-to-install HerculesWS/Hercules plugin library.
+Este projeto é uma conversão completa e aprimoramento do sistema Battlegrounds do eAmod em uma biblioteca de plugins HerculesWS / Hercules fácil de instalar.
 
 #### Pre-requisites
 - [HerculesWS/Hercules](https://github.com/HerculesWS/Hercules) emulation software.
